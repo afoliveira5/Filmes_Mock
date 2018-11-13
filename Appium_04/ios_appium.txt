@@ -1,0 +1,4 @@
+[caps]
+platformName = "iOS"
+deviceName = "iPhone 6 Plus"
+app = '/Users/aparecidooliveira/Desktop/aparecido/Filmes_mock/Appium_04/build/apk/app-debug.apk'
