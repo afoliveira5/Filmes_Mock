@@ -79,3 +79,7 @@ driver.execute_script 'mobile: scroll', :direction => "down"
 - cucumber -p android -t  @smoke_test;   =  rodar os teste
 
 - arc toml android_appium.txt  = inspecionar elemento de uma tela 
+
+- binding.pry ====> abre o modo debug do projeto
+
+- depois que abrir o modo DEBUG  utilizar a palavra **PAGE** para pegar os elementos da tela
